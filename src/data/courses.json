@@ -1,0 +1,365 @@
+[
+  {
+    "id": 101,
+    "title": "React Fundamentals",
+    "description": "Learn React from basics including components, state and hooks.",
+    "thumbnail": "/images/react-course.png",
+    "category": "Frontend",
+    "level": "Beginner",
+    "duration": "12 hours",
+    "instructor": "Teacher Demo",
+    "price": 29.99,
+    "tax": 0.1,
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Introduction to React",
+        "videoUrl": "https://example.com/videos/react-intro.mp4",
+        "duration": "15:30"
+      },
+      {
+        "id": 2,
+        "title": "Components and Props",
+        "videoUrl": "https://example.com/videos/components.mp4",
+        "duration": "22:10"
+      },
+      {
+        "id": 3,
+        "title": "React Hooks",
+        "videoUrl": "https://example.com/videos/hooks.mp4",
+        "duration": "30:00"
+      }
+    ],
+    "createdAt": "2026-06-01T10:00:00"
+  },
+
+  {
+    "id": 102,
+    "title": "Node.js Express Backend",
+    "description": "Build REST API with Express MVC architecture.",
+    "thumbnail": "/images/node-course.png",
+    "category": "Backend",
+    "level": "Intermediate",
+    "duration": "15 hours",
+    "instructor": "Teacher Demo",
+    "price": 39.99,
+    "tax": 0.1,
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Express Project Setup",
+        "videoUrl": "https://example.com/videos/express.mp4",
+        "duration": "20:00"
+      },
+      {
+        "id": 2,
+        "title": "MVC Architecture",
+        "videoUrl": "https://example.com/videos/mvc.mp4",
+        "duration": "25:00"
+      }
+    ],
+    "createdAt": "2026-06-02T10:00:00"
+  },
+
+  {
+    "id": 103,
+    "title": "MySQL Database",
+    "description": "Learn relational database design and SQL queries.",
+    "thumbnail": "/images/mysql-course.png",
+    "category": "Database",
+    "level": "Beginner",
+    "duration": "8 hours",
+    "instructor": "Teacher Demo",
+    "price": 19.99,
+    "tax": 0.1,
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Database Introduction",
+        "videoUrl": "https://example.com/videos/mysql.mp4",
+        "duration": "18:00"
+      },
+      {
+        "id": 2,
+        "title": "SQL Query Basics",
+        "videoUrl": "https://example.com/videos/sql.mp4",
+        "duration": "24:00"
+      }
+    ],
+    "createdAt": "2026-06-03T10:00:00"
+  },
+
+  {
+    "id": 104,
+    "title": "JavaScript Advanced",
+    "description": "Master modern JavaScript including ES6+, async programming and advanced concepts.",
+    "thumbnail": "/images/javascript-course.png",
+    "category": "Frontend",
+    "level": "Intermediate",
+    "duration": "18 hours",
+    "instructor": "Teacher Demo",
+    "price": 34.99,
+    "tax": 0.1,
+    "lessons": [
+      {
+        "id": 1,
+        "title": "ES6 Modern Syntax",
+        "videoUrl": "https://example.com/videos/js-es6.mp4",
+        "duration": "25:00"
+      },
+      {
+        "id": 2,
+        "title": "Async Await and Promise",
+        "videoUrl": "https://example.com/videos/js-async.mp4",
+        "duration": "35:00"
+      },
+      {
+        "id": 3,
+        "title": "Advanced Array Methods",
+        "videoUrl": "https://example.com/videos/js-array.mp4",
+        "duration": "28:00"
+      },
+      {
+        "id": 4,
+        "title": "Design Pattern in JavaScript",
+        "videoUrl": "https://example.com/videos/js-pattern.mp4",
+        "duration": "40:00"
+      }
+    ],
+    "createdAt": "2026-06-04T10:00:00"
+  },
+
+  {
+    "id": 105,
+    "title": "React TypeScript Complete",
+    "description": "Build scalable React applications using TypeScript.",
+    "thumbnail": "/images/react-ts.png",
+    "category": "Frontend",
+    "level": "Advanced",
+    "duration": "22 hours",
+    "instructor": "Teacher Demo",
+    "price": 49.99,
+    "tax": 0.1,
+    "lessons": [
+      {
+        "id": 1,
+        "title": "TypeScript Basic Types",
+        "videoUrl": "https://example.com/videos/ts-basic.mp4",
+        "duration": "20:00"
+      },
+      {
+        "id": 2,
+        "title": "Typing React Components",
+        "videoUrl": "https://example.com/videos/react-ts-component.mp4",
+        "duration": "35:00"
+      },
+      {
+        "id": 3,
+        "title": "Hooks with TypeScript",
+        "videoUrl": "https://example.com/videos/react-ts-hook.mp4",
+        "duration": "30:00"
+      }
+    ],
+    "createdAt": "2026-06-05T10:00:00"
+  },
+
+  {
+    "id": 106,
+    "title": "Express REST API Development",
+    "description": "Create production-ready backend APIs using Express.",
+    "thumbnail": "/images/express-api.png",
+    "category": "Backend",
+    "level": "Intermediate",
+    "duration": "20 hours",
+    "instructor": "Teacher Demo",
+    "price": 44.99,
+    "tax": 0.1,
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Express Routing",
+        "videoUrl": "https://example.com/videos/routes.mp4",
+        "duration": "25:00"
+      },
+      {
+        "id": 2,
+        "title": "Middleware",
+        "videoUrl": "https://example.com/videos/middleware.mp4",
+        "duration": "32:00"
+      },
+      {
+        "id": 3,
+        "title": "REST API Design",
+        "videoUrl": "https://example.com/videos/rest.mp4",
+        "duration": "45:00"
+      },
+      {
+        "id": 4,
+        "title": "API Authentication",
+        "videoUrl": "https://example.com/videos/auth.mp4",
+        "duration": "38:00"
+      },
+      {
+        "id": 5,
+        "title": "Error Handling",
+        "videoUrl": "https://example.com/videos/error.mp4",
+        "duration": "20:00"
+      }
+    ],
+    "createdAt": "2026-06-06T10:00:00"
+  },
+
+  {
+    "id": 107,
+    "title": "Node.js Advanced Backend",
+    "description": "Deep dive into Node.js runtime and backend architecture.",
+    "thumbnail": "/images/node-advanced.png",
+    "category": "Backend",
+    "level": "Advanced",
+    "duration": "25 hours",
+    "instructor": "Teacher Demo",
+    "price": 54.99,
+    "tax": 0.1,
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Node Event Loop",
+        "videoUrl": "https://example.com/videos/event-loop.mp4",
+        "duration": "30:00"
+      },
+      {
+        "id": 2,
+        "title": "Streams and Buffer",
+        "videoUrl": "https://example.com/videos/node-stream.mp4",
+        "duration": "40:00"
+      },
+      {
+        "id": 3,
+        "title": "Performance Optimization",
+        "videoUrl": "https://example.com/videos/node-performance.mp4",
+        "duration": "45:00"
+      }
+    ],
+    "createdAt": "2026-06-07T10:00:00"
+  },
+
+  {
+    "id": 108,
+    "title": "Database Design Masterclass",
+    "description": "Design efficient relational databases.",
+    "thumbnail": "/images/database-design.png",
+    "category": "Database",
+    "level": "Advanced",
+    "duration": "16 hours",
+    "instructor": "Teacher Demo",
+    "price": 0.0,
+    "tax": 0.1,
+    "lessons": [
+      {
+        "id": 1,
+        "title": "ERD Design",
+        "videoUrl": "https://example.com/videos/erd.mp4",
+        "duration": "25:00"
+      },
+      {
+        "id": 2,
+        "title": "Normalization",
+        "videoUrl": "https://example.com/videos/normalization.mp4",
+        "duration": "30:00"
+      },
+      {
+        "id": 3,
+        "title": "Index Optimization",
+        "videoUrl": "https://example.com/videos/index.mp4",
+        "duration": "35:00"
+      },
+      {
+        "id": 4,
+        "title": "Transaction and Lock",
+        "videoUrl": "https://example.com/videos/transaction.mp4",
+        "duration": "42:00"
+      }
+    ],
+    "createdAt": "2026-06-08T10:00:00"
+  },
+
+  {
+    "id": 109,
+    "title": "UI UX Design Basics",
+    "description": "Learn user interface and user experience principles.",
+    "thumbnail": "/images/uiux.png",
+    "category": "Design",
+    "level": "Beginner",
+    "duration": "10 hours",
+    "instructor": "Teacher Demo",
+    "price": 24.99,
+    "tax": 0.1,
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Design Thinking",
+        "videoUrl": "https://example.com/videos/design-thinking.mp4",
+        "duration": "20:00"
+      },
+      {
+        "id": 2,
+        "title": "Color and Typography",
+        "videoUrl": "https://example.com/videos/color.mp4",
+        "duration": "25:00"
+      },
+      {
+        "id": 3,
+        "title": "Wireframe Design",
+        "videoUrl": "https://example.com/videos/wireframe.mp4",
+        "duration": "35:00"
+      }
+    ],
+    "createdAt": "2026-06-09T10:00:00"
+  },
+
+  {
+    "id": 110,
+    "title": "Fullstack Web Development",
+    "description": "Become a fullstack web developer with React and Node.js.",
+    "thumbnail": "/images/fullstack.png",
+    "category": "Fullstack",
+    "level": "Advanced",
+    "duration": "40 hours",
+    "instructor": "Teacher Demo",
+    "price": 79.99,
+    "tax": 0.1,
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Project Setup and Architecture",
+        "videoUrl": "https://example.com/videos/fullstack-setup.mp4",
+        "duration": "30:00"
+      },
+      {
+        "id": 2,
+        "title": "Frontend Development with React",
+        "videoUrl": "https://example.com/videos/fullstack-react.mp4",
+        "duration": "60:00"
+      },
+      {
+        "id": 3,
+        "title": "Backend Development with Node.js",
+        "videoUrl": "https://example.com/videos/fullstack-node.mp4",
+        "duration": "60:00"
+      },
+      {
+        "id": 4,
+        "title": "Database Integration",
+        "videoUrl": "https://example.com/videos/fullstack-db.mp4",
+        "duration": "45:00"
+      },
+      {
+        "id": 5,
+        "title": "Deployment and DevOps",
+        "videoUrl": "https://example.com/videos/fullstack-deploy.mp4",
+        "duration": "45:00"
+      }
+    ],
+    "createdAt": "2026-06-10T10:00:00"
+  }
+]
